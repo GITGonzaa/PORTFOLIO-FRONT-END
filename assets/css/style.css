@@ -1,5 +1,5 @@
 *{ 
-    width: "";
+    width: "80%";
     margin: auto;
     padding: 0.1%;
  }
@@ -14,24 +14,25 @@ color: rgb(38, 16, 239);
 .navbar.navbar-expand-lg.bg-body-tertiary
 {
  width: "";
+ margin: 0.1% 1%;
+ size: "";
 
-    
 }
 .img-fluid 
 {
     width: "100%";
-    margin: ;
+   
 
 
 }
 
 .container-fluid
  {
-background-image: url(../img/minsk-bielorrusia-15-diciembre-2021-carrocerias-automoviles-estan-linea-montaje-fabrica-produccion-automoviles-industria-automotriz-moderna-automovil-que-revisa-antes-ser-pintado-empresa-alta-tecnologia.jpg);
+    size: 5  ;
+background-image: url(../img/fabrica\ automovil.jpg);
 background-repeat: no-repeat;
 background-size: 100%;
 background-position: 25%;
-
  }
  .collapse.navbar-collapse
  {
